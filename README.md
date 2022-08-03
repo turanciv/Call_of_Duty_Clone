@@ -1,5 +1,5 @@
 # Call of Duty Clone
-> It is a first person shooter game developed using Unity Assests store and C# as scripting language.
+> It is a first person shooter game developed using Unity Asset store and C# as scripting language.
 
 
 ## Table of contents
@@ -42,7 +42,7 @@ This project is built to depict Call of Duty. It consisits of multiple levels of
 ## Technologies
 * SCRIPTING LANGUAGE:-C#
 * DEVELOPMENT TOOL- Unity Game Engine
-* ASSESTS:-Unity Assest Store
+* ASSETS:-Unity Asset Store
 
 ## Features of Game
 List of features are
